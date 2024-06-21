@@ -2,6 +2,7 @@ import LoginPanel from "./components/Login/Login";
 import { Routes, Route } from "react-router-dom";
 import RegisterPanel from "./components/Register/Register"; // Assuming the component is named RegisterPanel
 import Dealers from './components/Dealers/Dealers';
+import PostReview from "./components/Dealers/PostReview"
 function App() {
   return (
     <Routes>
